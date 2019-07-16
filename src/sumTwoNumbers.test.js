@@ -1,5 +1,5 @@
 const sumTwoNumbers = require('./sumTwoNumbers');
 
-test('adds 3 and 1 to equal 4', () => {
-  expect(sumTwoNumbers(3, 1)).toBe(4);
+test('adds 6 and 2 to equal 8', () => {
+  expect(sumTwoNumbers(6, 2)).toBe(8);
 });
